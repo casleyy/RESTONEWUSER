@@ -1,0 +1,3 @@
+﻿  compprog2.cpp
+C:\Users\202412262\source\repos\compprog2\compprog2\compprog2.cpp(126,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  compprog2.vcxproj -> C:\Users\202412262\source\repos\compprog2\x64\Debug\compprog2.exe
