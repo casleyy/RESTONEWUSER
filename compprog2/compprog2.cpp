@@ -21,13 +21,14 @@ int main()
     char loychoice;
     float loyalty;
 
-    float payment = 0;
-    float total; 
-
     char newuser;
 
 
     do {
+
+        //initializing payment to be zero at the start of each turn
+        float payment = 0;
+        float total;
 
         //accepting name and age
         cout << "Hello and Welcome dear customer!\n\n"
